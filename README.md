@@ -43,4 +43,4 @@ You can test this application by running the shapes.test.js located inside the l
 
 Have any questions? This is how to contact me:
 
-Github: https://github.com/RuckusEnjoyer
+Github: https://github.com/kizirkle
